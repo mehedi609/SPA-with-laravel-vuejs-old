@@ -1,3 +1,3 @@
-#A Real time Single Page App named Discussion Forum.
+#A Real time Single Page App named Discussion Forum.#
 
-##Tools use: `Laravel`, `VueJS`, `Pusher`, `Vuetify`, `markdown`
+##Tools use:## `Laravel`, `VueJS`, `Pusher`, `Vuetify`, `markdown`
